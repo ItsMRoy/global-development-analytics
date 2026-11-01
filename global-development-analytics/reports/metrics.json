@@ -1,0 +1,17 @@
+{
+  "source": "Gapminder data bundled with Plotly (historical country-year panel)",
+  "first_year": 1952,
+  "last_year": 2007,
+  "rows": 1704,
+  "countries": 142,
+  "years_observed": 12,
+  "start_population_weighted_life_expectancy": 48.94,
+  "end_population_weighted_life_expectancy": 68.92,
+  "change_in_weighted_life_expectancy_years": 19.97,
+  "highest_region_in_last_year": "Oceania",
+  "highest_region_weighted_life_expectancy": 81.06,
+  "lowest_region_in_last_year": "Africa",
+  "lowest_region_weighted_life_expectancy": 54.56,
+  "cross_country_spearman_rho_last_year": 0.857,
+  "cross_country_spearman_p_last_year": 4.622974536298113e-42
+}
